@@ -11,3 +11,5 @@ node_modules
 *.bs.js
 *.mlast*
 *.mliast*
+
+bs-result-*.tgz
