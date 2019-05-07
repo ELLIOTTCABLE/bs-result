@@ -1,0 +1,11 @@
+{
+   "name": "bs-result",
+   "version": "0.0.1",
+   "sources": [{ "dir": ".", "public": ["Result"] }],
+   "namespace": false,
+   "package-specs": {
+      "module": "commonjs",
+      "in-source": true
+   },
+   "suffix": ".bs.js"
+}
