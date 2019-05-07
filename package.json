@@ -7,7 +7,9 @@
    },
    "files": [
       "bsconfig.json",
-      "result.ml"
+      "bs_src/**/*.bs.js",
+      "bs_src/**/*.mli",
+      "bs_src/**/*.ml"
    ],
    "scripts": {
       "prepare": "npm run clean && bsb -make-world",
