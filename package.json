@@ -33,7 +33,7 @@
       "bs-platform": "^5.0.1"
    },
    "peerDependencies": {
-      "bs-platform": "4.x || 5.x"
+      "bs-platform": ">=4.0.0"
    },
    "dependencies": {}
 }
