@@ -1,6 +1,6 @@
 {
    "name": "@elliottcable/bs-result",
-   "version": "12.0.0-pre.2",
+   "version": "12.0.0",
    "sources": "bs_src",
    "namespace": false,
    "package-specs": {
